@@ -1,0 +1,189 @@
+ body{
+   margin: 0px;
+   padding:0px;
+   background-color: black;
+ }
+ 
+ #page1{
+    background-image:url('bgbhoomi.jpeg');
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+
+ }
+ #logo{
+   width:80px;
+   height:80px
+ }
+ span{
+    width: 100%;
+ }
+ img{
+    size:20px;
+ }
+ header{
+    display:flex;
+    gap:800px;
+ }
+ #abc{
+    gap:10px;
+    display:flex;
+    list-style: none;
+ }
+ #abc select{
+    cursor:pointer;
+    padding: 5px;
+    margin:5px;
+    border-radius: 5px 5px 5px;
+    font-size: 20px;
+ }
+ #abc button{
+    background-color: red;
+    cursor:pointer;
+    padding: 5px;
+    margin:5px;
+    border-radius: 5px 5px 5px;
+    font-size: 20px;
+ }
+#bcd{
+   text-align: center;
+   color:aliceblue;
+}
+#eff{
+   background-color:red;
+  padding: 15px 32px;
+  color:aliceblue;
+  font-size: 16px;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor:pointer;
+}
+#page2{
+   display:flex;
+   background-color: black;
+}
+#enjoy{
+   display:flex;
+   gap:30px;
+}
+#enjoy h1{
+   align-self: flex-start;
+   color:aliceblue;
+   font-size: 45px;
+  
+
+}
+#enjoy h2{
+   align-self: flex-start;
+   color:aliceblue;
+   font-size: 30px;
+
+}
+#enjoy img{
+   align-self: flex-end;
+   width:400px;
+   height:400px
+}
+#page3{
+   display:flex;
+   background-color: black;
+   gap:20px;
+}
+#download{
+   display:flex;
+   gap:10px;
+}
+#download img{
+   align-self: flex-start;
+   width:400px;
+   height:400px;
+}
+#download h1{
+   align-self: flex-end;
+   color:aliceblue;
+   font-size: 45px;
+  
+
+}
+#download h2{
+   align-self: flex-end;
+   color:aliceblue;
+   font-size: 30px;
+   
+  
+
+}
+#page3{
+   display:flex;
+   background-color: black;
+   gap:30px;
+}
+#page4{
+   text-align: center;
+   margin: auto;
+   background-color: black;
+   align-self: center;
+   
+}
+#faq{
+   align-items: center;
+   list-style: none;
+   gap:20px;
+   align-items: center;
+   
+   
+   
+}
+#faq h1{
+   font-size: 50px;
+   color: aliceblue;
+}
+#abcd{
+   margin-left:160px;
+   justify-items: center;
+}
+#ques{
+   
+   border: 3px solid black;
+    background-color: gray;
+    color: aliceblue;
+    display: block;
+    text-align: left;
+     padding: 20px;
+height: 20px;
+width:80%;
+font-size: 30px;
+}
+footer{
+   background-color: black;
+}
+footer p{
+   color: aliceblue;
+   margin-left:80px;
+}
+#foot{
+   display: flex;
+   margin-left:50px;
+
+}
+
+
+#list{
+   color: aliceblue;
+   list-style: none;
+   gap:30px;
+}
+.item{
+   gap:30px;
+   margin:10px;
+}
+footer select{
+   cursor:pointer;
+    padding: 5px;
+    margin:5px;
+    border-radius: 5px 5px 5px;
+    font-size: 20px;
+    margin-left:80px;
+
+}
